@@ -6,6 +6,7 @@ I'm passionate about **Software Testing** and ensuring that every application I 
 ### 🔍 Why I Love Software Testing
 
 -Ensuring Quality: I believe software testing is more than just finding bugs. It’s about delivering quality and ensuring that applications work as expected, providing the best possible user experience.
+
 -Problem-Solving: Every bug is a puzzle. I enjoy diving deep into systems to identify issues, troubleshoot them, and collaborate with developers to ensure everything runs smoothly.
 -Continuous Learning: Testing constantly challenges me to learn new tools, techniques, and frameworks, from automation tools like Selenium to performance testing with JMeter.
 
