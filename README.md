@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Hassan Elkholy</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00ADD8&center=true&vCenter=true&lines=Fullstack+.NET+Developer;Creating+Effective+Software+Solutions;Passionate+about+Tech" />
