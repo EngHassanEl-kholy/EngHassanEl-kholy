@@ -1,33 +1,37 @@
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
 
-## 👋 Hi there! I'm Hassan El-kholy
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00ADD8&center=true&vCenter=true&lines=Fullstack+.NET+Developer;Creating+Effective+Software+Solutions;Passionate+about+Tech" />
+</p>
 
-I'm passionate about **Software Testing** and ensuring that every application I work on meets the highest standards of quality. I believe in the power of testing to improve the user experience, catch bugs early, and deliver top-notch software products.
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassan-el-kholy-692342326/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/your-twitter-handle" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+</p>
 
-### 🔍 Why I Love Software Testing
+---
 
--Ensuring Quality: I believe software testing is more than just finding bugs. It’s about delivering quality and ensuring that applications work as expected, providing the best possible user experience.
+### 🚀 About Me
+- **Fullstack .NET Developer** specializing in creating **efficient and scalable software products**.
+- Skilled in building and optimizing **end-to-end applications** to deliver value.
+- Passionate about **technology** and **problem-solving**, I enjoy translating business requirements into effective solutions.
 
--Problem-Solving: Every bug is a puzzle. I enjoy diving deep into systems to identify issues, troubleshoot them, and collaborate with developers to ensure everything runs smoothly.
-
--Continuous Learning: Testing constantly challenges me to learn new tools, techniques, and frameworks, from automation tools like Selenium to performance testing with JMeter.
-
-### 🛠️ Tools & Technologies I Work With
-
-| Testing Type        | Tools               |
-| ------------------- | ------------------- |
-| Automation          | Selenium, Cypress   |
-| Performance         | JMeter, LoadRunner  |
-| API Testing         | Postman, RestAssured|
-|   Version Control   | Git, GitHub         |
-
-### 📚 My Favorite Testing Resources
-
-- [Ministry of Testing](https://www.ministryoftesting.com/)
-- [Software Testing Help](https://www.softwaretestinghelp.com/)
-- [Test Automation University](https://testautomationu.applitools.com/)
+### 💻 Technologies I Work With
+- **Languages:** C#, JavaScript, SQL,Html,CSS
+- **Frameworks:** ASP.NET Core, Entity Framework, Angular
+- **Tools:** Git, Docker, Azure, Visual Studio
+- **Database:** SQL Server, MySQL
 
 
-### 🤝 Let’s Collaborate
+### 🌟 Let's Connect!
+I'm always open to collaborating on exciting projects or discussing new ideas. Let's build something impactful!
 
-If you're as passionate about software quality and testing as I am, let's connect! I'm open to collaborating on testing projects, sharing insights, and learning together.
+<p align="center">
+  <img src="https://media.giphy.com/media/5VKbvrjxpVJCM/giphy.gif" width="200" alt="Coder" />
+</p>
 
+---
+
+<p align="center">
+  <em>Feel free to explore my work and reach out for collaboration opportunities!</em>
+</p>
