@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hassan Elkholy</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00ADD8&center=true&vCenter=true&lines=Fullstack+.NET+Developer;Creating+Effective+Software+Solutions;Passionate+about+Tech" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=24&color=00ADD8&center=true&vCenter=true&lines=Junior+.NET+Developer;Creating+Effective+Software+Solutions;Passionate+about+Tech" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 About Me
-- **Fullstack .NET Developer** specializing in creating **efficient and scalable software products**.
+- **Junoir .NET Developer** specializing in creating **efficient and scalable software products**.
 - Skilled in building and optimizing **end-to-end applications** to deliver value.
 - Passionate about **technology** and **problem-solving**, I enjoy translating business requirements into effective solutions.
 
